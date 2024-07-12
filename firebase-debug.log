@@ -63,3 +63,24 @@ You're about to initialize a Firebase project in this directory:
 [info] 
 [info] +  Success! Logged into GitHub as prashandip 
 [info] 
+[debug] [2024-07-12T21:59:49.156Z] >>> [apiv2][query] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech/actions/secrets/public-key type=owner
+[debug] [2024-07-12T21:59:49.682Z] <<< [apiv2][status] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech/actions/secrets/public-key 401
+[debug] [2024-07-12T21:59:49.682Z] <<< [apiv2][body] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest","status":"401"}
+[debug] [2024-07-12T22:00:04.313Z] >>> [apiv2][query] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech/actions/secrets/public-key type=owner
+[debug] [2024-07-12T22:00:04.860Z] <<< [apiv2][status] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech/actions/secrets/public-key 401
+[debug] [2024-07-12T22:00:04.860Z] <<< [apiv2][body] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest","status":"401"}
+[debug] [2024-07-12T22:02:40.337Z] >>> [apiv2][query] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech/actions/secrets/public-key type=owner
+[debug] [2024-07-12T22:02:40.898Z] <<< [apiv2][status] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech/actions/secrets/public-key 401
+[debug] [2024-07-12T22:02:40.899Z] <<< [apiv2][body] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest","status":"401"}
+[debug] [2024-07-12T22:02:45.786Z] >>> [apiv2][query] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech      /actions/secrets/public-key type=owner
+[debug] [2024-07-12T22:02:46.137Z] <<< [apiv2][status] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech      /actions/secrets/public-key 401
+[debug] [2024-07-12T22:02:46.138Z] <<< [apiv2][body] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech      /actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest","status":"401"}
+[debug] [2024-07-12T22:02:48.865Z] >>> [apiv2][query] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech    /actions/secrets/public-key type=owner
+[debug] [2024-07-12T22:02:49.050Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2024-07-12T22:02:49.201Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2024-07-12T22:02:49.211Z] <<< [apiv2][status] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech    /actions/secrets/public-key 401
+[debug] [2024-07-12T22:02:49.211Z] <<< [apiv2][body] GET https://api.github.com/repos/prashandip/firebase-react-pedrotech    /actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest","status":"401"}
+[debug] [2024-07-12T22:02:49.584Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2024-07-12T22:02:49.585Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest","status":"401"}
+[debug] [2024-07-12T22:02:49.734Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2024-07-12T22:02:49.734Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest","status":"401"}

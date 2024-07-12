@@ -38,7 +38,7 @@ function App() {
   };
   useEffect(() => {
     getMovieList();
-  }, []);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
   const onSubmitMovie = async () => {
     try {
       await addDoc(movieCollectionRef, {
